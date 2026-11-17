@@ -1,0 +1,10 @@
+{
+  "description": "Explore scaffolding rentals and sales, equipment, and project photos, then request a quote or contact AK SCAFFOLDING in Accra.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
